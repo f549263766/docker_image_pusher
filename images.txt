@@ -1,4 +1,3 @@
-pgsty/minio:RELEASE.2026-03-25T00-00-00Z
+--platform=linux/arm64 pgsty/minio:RELEASE.2026-03-25T00-00-00Z
 #支持指定架构
---platform=linux/arm64
 #--platform=linux/arm64 xiaoyaliu/alist
