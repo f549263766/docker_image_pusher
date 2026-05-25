@@ -1,3 +1,3 @@
---platform=linux/arm64 infiniflow/ragflow:v0.25.5
+--platform=linux/arm64/v8 infiniflow/ragflow:v0.25.5
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
