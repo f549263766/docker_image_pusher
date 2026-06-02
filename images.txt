@@ -1,3 +1,3 @@
-twnlp/deepagentforce:v1.4.0
+twnlp/deepagentforce:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
