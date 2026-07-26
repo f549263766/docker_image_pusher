@@ -2,6 +2,5 @@ wechatopenai/weknora-ui:latest
 wechatopenai/weknora-app:latest
 wechatopenai/weknora-sandbox:latest
 wechatopenai/weknora-docreader:latest
-semitechnologies/weaviate:1.28.4
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
