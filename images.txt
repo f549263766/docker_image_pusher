@@ -1,7 +1,7 @@
-# wechatopenai/weknora-ui:latest
-# wechatopenai/weknora-app:latest
-# wechatopenai/weknora-sandbox:latest
-# wechatopenai/weknora-docreader:latest
-vllm/vllm-omni:qwen-image21-x86_64-cu129
+wechatopenai/weknora-ui:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-sandbox:latest
+wechatopenai/weknora-docreader:latest
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
