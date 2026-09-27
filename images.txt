@@ -1,7 +1,7 @@
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-sandbox:latest
-wechatopenai/weknora-docreader:latest
-
+#wechatopenai/weknora-ui:latest
+#wechatopenai/weknora-app:latest
+#wechatopenai/weknora-sandbox:latest
+#wechatopenai/weknora-docreader:latest
+paradedb/paradedb:v0.22.6-pg17
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
